@@ -1,4 +1,4 @@
-FROM golang:1.18
+FROM golang:1.22-bullseye
 
 LABEL maintainer="Ving <ving@nivin.cn>"
 
